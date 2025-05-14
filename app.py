@@ -10,7 +10,7 @@ st.write("Google Gemini API를 사용하여 대화해 보세요.")
 # --- API Key 설정 ---
 # 방법 1: 환경 변수 사용 (로컬 실행 또는 일부 배포 환경)
 # GEMINI_API_KEY 환경 변수에 API 키를 설정해야 합니다. (아래 "실행 환경 구성" 참고)
-api_key = "AIzaSyCuEgGLJaMEYGxfSasJHeikNlFQvVR3u40"
+api_key = "여러분의 api key"
 #api_key = os.getenv("GEMINI_API_KEY")
 
 # 방법 2: Streamlit Secrets 사용 (Streamlit Cloud 배포 시 권장)
