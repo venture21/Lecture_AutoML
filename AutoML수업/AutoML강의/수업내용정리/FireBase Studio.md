@@ -1,0 +1,1 @@
+참조 영상 : https://www.youtube.com/watch?v=uCYGWrhCK9k

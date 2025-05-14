@@ -32,9 +32,37 @@
               "icon": "lucide-file",
               "title": "Git설치하고 github clone하기"
             }
+          },
+          {
+            "id": "bbcccca4616385cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "수업내용정리/FireBase Studio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FireBase Studio"
+            }
+          },
+          {
+            "id": "af51cd0fa6f39490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "수업내용정리/구글 클라우드 종료시 확인 사항.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "구글 클라우드 종료시 확인 사항"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,11 +206,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8624bea27cab0829",
+  "active": "af51cd0fa6f39490",
   "lastOpenFiles": [
-    "참조자료/AutoML에대한고찰.pdf",
+    "수업내용정리/FireBase Studio.md",
+    "수업내용정리/구글 클라우드 종료시 확인 사항.md",
     "수업내용정리/Git설치하고 github clone하기.md",
-    "무제.md",
+    "참조자료/AutoML에대한고찰.pdf",
     "환영합니다!.md",
     "참조자료",
     "수업내용정리"
