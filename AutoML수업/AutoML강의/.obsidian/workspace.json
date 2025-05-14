@@ -60,9 +60,23 @@
               "icon": "lucide-file",
               "title": "구글 클라우드 종료시 확인 사항"
             }
+          },
+          {
+            "id": "83e814aefb9306f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스트림릿으로 Gemini 실행하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "스트림릿으로 Gemini 실행하기"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,11 +220,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "af51cd0fa6f39490",
+  "active": "83e814aefb9306f9",
   "lastOpenFiles": [
+    "수업내용정리/구글 클라우드 종료시 확인 사항.md",
+    "스트림릿으로 Gemini 실행하기.md",
     "참조자료/머신러닝자동화툴(AutoML)을활용한AI서비스구현_0512.pdf",
     "수업내용정리/FireBase Studio.md",
-    "수업내용정리/구글 클라우드 종료시 확인 사항.md",
     "수업내용정리/Git설치하고 github clone하기.md",
     "참조자료/AutoML에대한고찰.pdf",
     "환영합니다!.md",
