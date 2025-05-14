@@ -67,16 +67,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업내용정리/스트림릿으로 Gemini 실행하기.md",
+                "file": "수업내용정리/스트림릿으로 Gemini 실행하기 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스트림릿으로 Gemini 실행하기"
+              "title": "스트림릿으로 Gemini 실행하기 1"
+            }
+          },
+          {
+            "id": "7155b6c71b537e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "수업내용정리/스트림릿으로 Gemini 실행하기 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "스트림릿으로 Gemini 실행하기 2"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,10 +234,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "79f23bb28365a008",
+  "active": "7155b6c71b537e71",
   "lastOpenFiles": [
+    "수업내용정리/스트림릿으로 Gemini 실행하기 1.md",
+    "수업내용정리/스트림릿으로 Gemini 실행하기 2.md",
     "수업내용정리/구글 클라우드 종료시 확인 사항.md",
-    "수업내용정리/스트림릿으로 Gemini 실행하기.md",
     "참조자료/머신러닝자동화툴(AutoML)을활용한AI서비스구현_0512.pdf",
     "수업내용정리/FireBase Studio.md",
     "수업내용정리/Git설치하고 github clone하기.md",
